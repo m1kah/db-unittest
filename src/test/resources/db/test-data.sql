@@ -1,0 +1,10 @@
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9781627790642, 352, 'Killing England: The Brutal Struggle for American Independence (Bill O''Reilly''s Killing Series)');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9781501175565, 512, 'What Happened');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9780812995848, 208, 'Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9780545935210, 256, 'Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3)');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9781387159505, 254, 'Francis of the Filth');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9780375869020, 320, 'Wonder');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9781501163401, 720, 'Sleeping Beauties: A Novel');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9780385514231, 480, 'Origin: A Novel');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9781501180736, 320, 'The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance');
+INSERT INTO BOOKS (ISBN_13, PAGES, TITLE) VALUES (9781501124020, 592, 'Principles: Life and Work');
